@@ -5,4 +5,4 @@ put the pos and neg folder in your working directory.<br>
 download GloVe using : http://nlp.stanford.edu/data/glove.6B.zip and put the txt files in a folder named "glove short" in your working directory . <br>
 install the imported libraries . <br>
 Enjoy :D <br>
-P.s look out for updates :D
+P.S. look out for updates :D
